@@ -1,0 +1,18 @@
+[
+    {
+        "city": "Metropolis",
+        "date": "2025-06-08",
+        "temperature_c": 25,
+        "precipitation_mm": 2,
+        "wind_speed_kph": 15,
+        "weather_condition": "Rain"
+    },
+    {
+        "city": "Metropolis",
+        "date": "2025-06-09",
+        "temperature_c": 28,
+        "precipitation_mm": 0,
+        "wind_speed_kph": 10,
+        "weather_condition": "Clear"
+    }
+]
